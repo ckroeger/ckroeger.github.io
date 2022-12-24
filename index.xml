@@ -1,14 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>things to keep</title>
     <link>https://ckroeger.github.io/</link>
     <description>Recent content on things to keep</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 24 Dec 2022 14:48:22 +0100</lastBuildDate>
-    
-        <atom:link href="https://ckroeger.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 24 Dec 2022 14:48:22 +0100</lastBuildDate><atom:link href="https://ckroeger.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>gc - another shell alias</title>
       <link>https://ckroeger.github.io/code/bashalias_gc/</link>
@@ -19,6 +16,44 @@
 Here it is:
 # clones git and change to new dir alias gc=&amp;#39;_gc(){ git clone $1 &amp;amp;&amp;amp; cd `echo &amp;#34;$1&amp;#34; \ | sed -E &amp;#34;s|.*/([a-zA-Z0-9\\-]+)\.git|\1|&amp;#34;`; }; _gc&amp;#39; Usage:
 $ gc &amp;lt;CLONE-URL&amp;gt; </description>
+    </item>
+    
+    <item>
+      <title>Bashalias_gc</title>
+      <link>https://ckroeger.github.io/page/bashalias_gc/</link>
+      <pubDate>Sat, 24 Dec 2022 14:34:44 +0100</pubDate>
+      
+      <guid>https://ckroeger.github.io/page/bashalias_gc/</guid>
+      <description>Bilberry is a premium theme for the Hugo Static Website Builder.
+It is full of little nice features, such as:
+ built-in integration for the wonderful algolia search built-in integration for the powerful disqus comments gravatar and custom image integration for the header keybo  function addNumbers(a: number, b: number) { return a + b; } var sum: number = addNumbers(10, 15) console.log(&amp;#39;Sum of the two numbers is: &amp;#39; +sum); </description>
+    </item>
+    
+    <item>
+      <title>About things to keep</title>
+      <link>https://ckroeger.github.io/page/about-things/</link>
+      <pubDate>Mon, 01 Nov 2021 13:18:45 +0100</pubDate>
+      
+      <guid>https://ckroeger.github.io/page/about-things/</guid>
+      <description>This blog contains a little developer content i found interesting.</description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://ckroeger.github.io/page/github/</link>
+      <pubDate>Mon, 01 Nov 2021 13:17:56 +0100</pubDate>
+      
+      <guid>https://ckroeger.github.io/page/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archive page</title>
+      <link>https://ckroeger.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckroeger.github.io/archive/</guid>
+      <description></description>
     </item>
     
   </channel>
