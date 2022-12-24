@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ckroeger.github.io/tags/alias/</loc>
-    <lastmod>2022-12-24T14:48:22+01:00</lastmod>
-  </url><url>
     <loc>https://ckroeger.github.io/author/</loc>
+    <lastmod>2022-12-24T17:45:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/author/ckroeger/</loc>
+    <lastmod>2022-12-24T17:45:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/tags/github/</loc>
+    <lastmod>2022-12-24T17:45:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/tags/githubpages/</loc>
+    <lastmod>2022-12-24T17:45:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/post/github_pages_underscore/</loc>
+    <lastmod>2022-12-24T17:45:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/post/</loc>
+    <lastmod>2022-12-24T17:45:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/tags/</loc>
+    <lastmod>2022-12-24T17:45:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/</loc>
+    <lastmod>2022-12-24T17:45:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/tags/alias/</loc>
     <lastmod>2022-12-24T14:48:22+01:00</lastmod>
   </url><url>
     <loc>https://ckroeger.github.io/tags/bash/</loc>
     <lastmod>2022-12-24T14:48:22+01:00</lastmod>
   </url><url>
     <loc>https://ckroeger.github.io/categories/</loc>
-    <lastmod>2022-12-24T14:48:22+01:00</lastmod>
-  </url><url>
-    <loc>https://ckroeger.github.io/author/ckroeger/</loc>
     <lastmod>2022-12-24T14:48:22+01:00</lastmod>
   </url><url>
     <loc>https://ckroeger.github.io/code/</loc>
@@ -30,12 +48,6 @@
     <lastmod>2022-12-24T14:48:22+01:00</lastmod>
   </url><url>
     <loc>https://ckroeger.github.io/tags/linux/</loc>
-    <lastmod>2022-12-24T14:48:22+01:00</lastmod>
-  </url><url>
-    <loc>https://ckroeger.github.io/tags/</loc>
-    <lastmod>2022-12-24T14:48:22+01:00</lastmod>
-  </url><url>
-    <loc>https://ckroeger.github.io/</loc>
     <lastmod>2022-12-24T14:48:22+01:00</lastmod>
   </url><url>
     <loc>https://ckroeger.github.io/page/bashalias_gc/</loc>

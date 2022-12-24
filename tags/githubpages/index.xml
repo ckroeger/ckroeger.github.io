@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>githubpages on things to keep</title>
+    <link>https://ckroeger.github.io/tags/githubpages/</link>
+    <description>Recent content in githubpages on things to keep</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 24 Dec 2022 17:45:17 +0100</lastBuildDate><atom:link href="https://ckroeger.github.io/tags/githubpages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Githubpages doesn&#39;t like underscores</title>
+      <link>https://ckroeger.github.io/post/github_pages_underscore/</link>
+      <pubDate>Sat, 24 Dec 2022 17:45:17 +0100</pubDate>
+      
+      <guid>https://ckroeger.github.io/post/github_pages_underscore/</guid>
+      <description>Underscores in filenames or directorynames result in a 404 not found.
+Solution  add a empty file named .nojekyll to the root-directory  Found the hint here -&amp;gt; Learning that Github Pages Struggles with Certain File Names</description>
+    </item>
+    
+  </channel>
+</rss>
