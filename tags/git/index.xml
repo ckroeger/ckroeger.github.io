@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on things to keep</title>
+    <link>https://ckroeger.github.io/tags/git/</link>
+    <description>Recent content in git on things to keep</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 24 Dec 2022 14:48:22 +0100</lastBuildDate><atom:link href="https://ckroeger.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gc - another shell alias</title>
+      <link>https://ckroeger.github.io/code/bashalias_gc/</link>
+      <pubDate>Sat, 24 Dec 2022 14:48:22 +0100</pubDate>
+      
+      <guid>https://ckroeger.github.io/code/bashalias_gc/</guid>
+      <description>Wouldn&amp;rsquo;t it be nice to have a alias for cloning a git repo and change to cloned directory?
+Here it is:
+# clones git and change to new dir alias gc=&amp;#39;_gc(){ git clone $1 &amp;amp;&amp;amp; cd `echo &amp;#34;$1&amp;#34; \ | sed -E &amp;#34;s|.*/([a-zA-Z0-9\\-]+)\.git|\1|&amp;#34;`; }; _gc&amp;#39; Usage:
+$ gc &amp;lt;CLONE-URL&amp;gt; </description>
+    </item>
+    
+  </channel>
+</rss>
