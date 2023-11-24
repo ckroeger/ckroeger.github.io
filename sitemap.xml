@@ -3,15 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ckroeger.github.io/author/</loc>
-    <lastmod>2023-01-29T13:00:00+01:00</lastmod>
+    <lastmod>2023-11-24T23:17:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/author/ckroeger/</loc>
+    <lastmod>2023-11-24T23:17:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/tags/hugo/</loc>
+    <lastmod>2023-11-24T23:17:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/post/hugo_external_liks/</loc>
+    <lastmod>2023-11-24T23:17:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/post/</loc>
+    <lastmod>2023-11-24T23:17:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/tags/</loc>
+    <lastmod>2023-11-24T23:17:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ckroeger.github.io/</loc>
+    <lastmod>2023-11-24T23:17:17+01:00</lastmod>
   </url><url>
     <loc>https://ckroeger.github.io/tags/basic/</loc>
     <lastmod>2023-01-29T13:00:00+01:00</lastmod>
   </url><url>
     <loc>https://ckroeger.github.io/categories/</loc>
-    <lastmod>2023-01-29T13:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://ckroeger.github.io/author/ckroeger/</loc>
     <lastmod>2023-01-29T13:00:00+01:00</lastmod>
   </url><url>
     <loc>https://ckroeger.github.io/code/</loc>
@@ -29,12 +44,6 @@
     <loc>https://ckroeger.github.io/code/python_basic_print/</loc>
     <lastmod>2023-01-29T13:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://ckroeger.github.io/tags/</loc>
-    <lastmod>2023-01-29T13:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://ckroeger.github.io/</loc>
-    <lastmod>2023-01-29T13:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://ckroeger.github.io/tags/github/</loc>
     <lastmod>2022-12-24T17:45:17+01:00</lastmod>
   </url><url>
@@ -42,9 +51,6 @@
     <lastmod>2022-12-24T17:45:17+01:00</lastmod>
   </url><url>
     <loc>https://ckroeger.github.io/post/github_pages_underscore/</loc>
-    <lastmod>2022-12-24T17:45:17+01:00</lastmod>
-  </url><url>
-    <loc>https://ckroeger.github.io/post/</loc>
     <lastmod>2022-12-24T17:45:17+01:00</lastmod>
   </url><url>
     <loc>https://ckroeger.github.io/tags/alias/</loc>

@@ -5,7 +5,17 @@
     <link>https://ckroeger.github.io/author/ckroeger/</link>
     <description>Recent content in ckroeger on things to keep</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Jan 2023 13:00:00 +0100</lastBuildDate><atom:link href="https://ckroeger.github.io/author/ckroeger/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Nov 2023 23:17:17 +0100</lastBuildDate><atom:link href="https://ckroeger.github.io/author/ckroeger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo external links with target = _blank</title>
+      <link>https://ckroeger.github.io/post/hugo_external_liks/</link>
+      <pubDate>Fri, 24 Nov 2023 23:17:17 +0100</pubDate>
+      
+      <guid>https://ckroeger.github.io/post/hugo_external_liks/</guid>
+      <description>Force Hugo to open external links with target _blank.
+Solution 👉 Hugo - Open External Links in a New Tab | Justin James </description>
+    </item>
+    
     <item>
       <title>Python - Basic - print variables inline of a string</title>
       <link>https://ckroeger.github.io/code/python_basic_print/</link>
