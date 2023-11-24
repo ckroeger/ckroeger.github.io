@@ -12,9 +12,9 @@
       <pubDate>Sat, 24 Dec 2022 14:34:44 +0100</pubDate>
       
       <guid>https://ckroeger.github.io/page/bashalias_gc/</guid>
-      <description>Bilberry is a premium theme for the Hugo Static Website Builder.
+      <description>Bilberry is a premium theme for the Hugo Static Website Builder .
 It is full of little nice features, such as:
- built-in integration for the wonderful algolia search built-in integration for the powerful disqus comments gravatar and custom image integration for the header keybo  function addNumbers(a: number, b: number) { return a + b; } var sum: number = addNumbers(10, 15) console.log(&amp;#39;Sum of the two numbers is: &amp;#39; +sum); </description>
+ built-in integration for the wonderful algolia search  built-in integration for the powerful disqus comments  gravatar and custom image integration for the header keybo  function addNumbers(a: number, b: number) { return a + b; } var sum: number = addNumbers(10, 15) console.log(&amp;#39;Sum of the two numbers is: &amp;#39; +sum); </description>
     </item>
     
     <item>
@@ -33,6 +33,15 @@ It is full of little nice features, such as:
       
       <guid>https://ckroeger.github.io/page/github/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments</title>
+      <link>https://ckroeger.github.io/page/experiments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ckroeger.github.io/page/experiments/</guid>
+      <description> magic mouse   </description>
     </item>
     
   </channel>

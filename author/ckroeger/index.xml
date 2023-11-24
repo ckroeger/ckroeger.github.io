@@ -27,7 +27,7 @@ Hello world </description>
       
       <guid>https://ckroeger.github.io/post/github_pages_underscore/</guid>
       <description>Underscores in filenames or directorynames result in a 404 not found.
-Solution  add a empty file named .nojekyll to the root-directory  Found the hint here -&amp;gt; Learning that Github Pages Struggles with Certain File Names</description>
+Solution  add a empty file named .nojekyll to the root-directory  Found the hint here -&amp;gt; Learning that Github Pages Struggles with Certain File Names </description>
     </item>
     
     <item>
